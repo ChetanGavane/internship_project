@@ -1,0 +1,60 @@
+{
+    "summary": [
+        "The Universal Credit Act 2025 aims to alter the rates of the standard allowance, limited capability for work element, and limited capability for work and work-related activity element of universal credit.",
+        "Key definitions include 'pre-2026 claimant', 'severe conditions criteria claimant', and 'limited capability for work and work-related activity'.",
+        "Eligibility for universal credit is based on various factors, including income, capability for work, and work-related activity.",
+        "The Secretary of State has obligations to exercise relevant powers to secure the standard allowance and limited capability for work and work-related activity elements.",
+        "The Act includes enforcement elements, such as the power to increase certain amounts to achieve specific results.",
+        "The Act specifies payment calculations and entitlement structures for universal credit and employment and support allowance.",
+        "Record-keeping requirements are implied through the need to track assessment periods and benefit weeks.",
+        "The Act includes corresponding provisions for Northern Ireland.",
+        "The Act may be cited as the Universal Credit Act 2025."
+    ],
+    "extracted_sections": {
+        "definitions": "Section 2, Section 27A, and Section 40A of the Universal Credit Regulations 2013",
+        "obligations": "Section 1, Section 3, and Section 5 of the Universal Credit Act 2025",
+        "responsibilities": "Section 9(2) of the Welfare Reform Act 2012 and Section 150(2)(b) of the Social Security Administration Act 1992",
+        "eligibility": "Section 1 and Section 5 of the Universal Credit Act 2025",
+        "payments": "Section 1, Section 2, and Section 5 of the Universal Credit Act 2025",
+        "penalties": "None explicitly stated, but implied through the power to increase certain amounts",
+        "record_keeping": "Implied through the need to track assessment periods and benefit weeks"
+    },
+    "rule_checks": [
+        {
+            "rule": "Act must define key terms",
+            "status": "pass",
+            "evidence": "Section 2, Section 27A, and Section 40A of the Universal Credit Regulations 2013",
+            "confidence": 95
+        },
+        {
+            "rule": "Act must specify eligibility criteria",
+            "status": "pass",
+            "evidence": "Section 1 and Section 5 of the Universal Credit Act 2025",
+            "confidence": 90
+        },
+        {
+            "rule": "Act must specify responsibilities of the administering authority",
+            "status": "pass",
+            "evidence": "Section 9(2) of the Welfare Reform Act 2012 and Section 150(2)(b) of the Social Security Administration Act 1992",
+            "confidence": 85
+        },
+        {
+            "rule": "Act must include enforcement or penalties",
+            "status": "pass",
+            "evidence": "Implied through the power to increase certain amounts",
+            "confidence": 80
+        },
+        {
+            "rule": "Act must include payment calculation or entitlement structure",
+            "status": "pass",
+            "evidence": "Section 1, Section 2, and Section 5 of the Universal Credit Act 2025",
+            "confidence": 95
+        },
+        {
+            "rule": "Act must include record-keeping or reporting requirements",
+            "status": "pass",
+            "evidence": "Implied through the need to track assessment periods and benefit weeks",
+            "confidence": 70
+        }
+    ]
+}
