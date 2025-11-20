@@ -27,8 +27,8 @@ The solution follows a modular **Extract-Analyze-Verify** pipeline:
 ## 🚀 How to Run
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/niyamr-intern-assignment.git](https://github.com/YOUR_USERNAME/niyamr-intern-assignment.git)
-    cd niyamr-intern-assignment
+    git clone https://github.com/ChetanGavane/internship_project
+    cd internship_project
     ```
 
 2.  **Install Dependencies**
@@ -37,9 +37,9 @@ The solution follows a modular **Extract-Analyze-Verify** pipeline:
     ```
 
 3.  **Set API Key**
-    * Export your Groq API key as an environment variable:
+    * Replace your Groq API key in main.py:
     ```bash
-    export GROQ_API_KEY="your_api_key_here"
+    GROQ_API_KEY="your_api_key_here"
     ```
 
 4.  **Run the Agent**
@@ -54,4 +54,5 @@ The solution follows a modular **Extract-Analyze-Verify** pipeline:
 * `main.py`: The core logic script.
 * `Universal_Credit_Act_2025.pdf`: The source legal document.
 * `final_report.json`: The output containing summaries and rule checks.
+
 * `requirements.txt`: List of dependencies.
